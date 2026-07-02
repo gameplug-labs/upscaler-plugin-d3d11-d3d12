@@ -2,6 +2,8 @@
 
 ![Upscaler Plugin Preview](upscaler-plugin.png)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rohitdev)
+
 Universal upscaler powered by **GamePlug** featuring FSR1, FSR2, FSR3, DLSS, DLAA, and XeSS with FSR3 frame generation support. Improves image quality and performance scaling in DirectX 11 games. Simply place `upscaler_plugin.dll` and `dinput8.dll` or `version.dll` in the game executable folder to use.
 
 GamePlug Upscaler brings modern upscaling support to x64 & x32 DirectX 11 games using the GamePlug framework. The current version implements FSR1, FSR2, FSR3, DLSS, DLAA, XeSS with FSR3 frame generation for sharper image quality and improved performance scaling in older D3D11 titles.
