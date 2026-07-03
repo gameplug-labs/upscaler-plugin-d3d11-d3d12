@@ -1,7 +1,5 @@
 # GamePlug Upscaler for DirectX 11
 
-![Upscaler Plugin Preview](upscaler-plugin.png)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rohitdev)
 
 Moved to a new place
